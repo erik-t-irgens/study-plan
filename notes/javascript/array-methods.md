@@ -1,0 +1,1 @@
+### All methods for arrays and their uses

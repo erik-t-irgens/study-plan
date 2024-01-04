@@ -1,0 +1,1 @@
+### All methods for objects and their uses
